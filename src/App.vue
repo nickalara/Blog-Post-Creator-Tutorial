@@ -18,12 +18,10 @@ export default {
 
 <style scoped>
 h1 {
-  margin-left: 20px;
-  margin-top:10px;
+  margin: 10px 0px 0px 20px;
 }
 
 .rteditor {
-  margin-left: 20px;
-  margin-right: 20px;
+  margin: 0px 20px 0px 20px;
 }
 </style>
