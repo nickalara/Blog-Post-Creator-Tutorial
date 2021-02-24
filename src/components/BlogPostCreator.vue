@@ -118,9 +118,7 @@ export default {
 	width: 90%;
 	grid-gap: 20px;
 	grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-	padding-bottom: 15px;
-	padding-top: 15px;
-	/* padding: 20px; */
+	padding: 15px 0px 15px 0px;
 }
 
 .ql-editor {
